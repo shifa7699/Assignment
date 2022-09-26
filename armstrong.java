@@ -24,4 +24,4 @@ System.out.println("It is an Armstrong number");
 System.out.println("NOT an armstrongnumber");
 }
 }
-	}
+}
