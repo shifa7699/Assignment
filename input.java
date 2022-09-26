@@ -1,3 +1,4 @@
+//Write a java program to take input from user
 import java.util.Scanner;
 class Input
 {
