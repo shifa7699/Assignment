@@ -1,3 +1,4 @@
+//Write a program to multiply two numbers
 public class multiply
 {
 public static void main(String args[])
