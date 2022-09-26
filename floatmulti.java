@@ -1,3 +1,4 @@
+//Write a java program to multiply two floating-point numbers
 public class float_multiply
 {
 public static void main(String args[])
