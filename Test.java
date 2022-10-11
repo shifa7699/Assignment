@@ -6,11 +6,7 @@ provide 8%, 7%, and 9% rate of interest.*/
 
 class Bank 
 	{
-		int RateOfInterest()
-		{
-			return 0;
-		}  
-	}  
+	}
 	//Creating child classes.  
 	class SBI extends Bank{  
 	int RateOfInterest()
