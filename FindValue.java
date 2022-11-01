@@ -1,3 +1,6 @@
+/*Q.1   Write a Java program to test if an array contains 
+      a specific value.*/
+
 package pack.com;
 
 import java.util.Scanner;
@@ -23,5 +26,4 @@ public class FindValue //main class
 			System.out.println(n+" Found at Position: "+(i+1)); //printing the position of the number
 		}
 	}
-		
 }
