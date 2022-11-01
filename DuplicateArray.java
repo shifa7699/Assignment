@@ -28,7 +28,7 @@ public class DuplicateArray //main class
             	}
 		if(f==0)
         	{
-        		System.out.println("NOT FOUND");
+        		System.out.println("NOT FOUND"); //prints this message if duplicate values are not found
         	}
 	}
 }
