@@ -1,3 +1,6 @@
+/*Q.3   we need to print the elements of the array which 
+      are present in odd positions.*/
+
 package pack.com;
 
 public class OddPosition
